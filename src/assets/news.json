@@ -70,5 +70,9 @@
   {
     "new_time": "2024年4月",
     "content": "TFB: Towards Comprehensive and Fair Benchmarking of Time Series Forecasting Methods被PVLDB 2024 （CCF A）录用。提出了一套全面的时间序列预测方法的评测基准。"
+  },
+  {
+    "new_time": "2024年6月",
+    "content": "Efficient Stochastic Routing in Path-Centric Uncertain Road Networks被PVLDB 2024 （CCF A类）录用。基于能对旅行时间的不确定性进行准确建模的路径中心不确定图，提出了高效的随机路由导航算法。"
   }
 ]
